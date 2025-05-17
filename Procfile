@@ -1,0 +1,1 @@
+web: NODE_ENV=production node --max-old-space-size=2048 dist/main.js 
